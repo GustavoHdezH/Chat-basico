@@ -6,6 +6,8 @@
 
 * [Descripción del proyecto](#Descripción)
 * [Instalación de paquetes](#Instalación)
+* [Ejemplo de uso de Flask](#Ejemplo)
+* [Muestra de codigo en ación](#Tutorial)
 
 ## Descripción
 
@@ -66,3 +68,4 @@ def handleMessage(msg):
 if __name__ == '__main__':
     socketio.run(app)
 ```
+Copyright &copy; 2020 Gustavo Hernandez
