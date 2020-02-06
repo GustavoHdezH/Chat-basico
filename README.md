@@ -25,9 +25,9 @@ Desarrollo de un chat web básico utilizando el framework **Flask** escrito en _
 
 ## Instalación
 
-Instala y actualiza usando [pip:][1]
+Instala y actualiza usando [pip:][4]
 
-[1]: https://pip.pypa.io/en/stable/quickstart/
+[4]: https://pip.pypa.io/en/stable/quickstart/
 
 `pip install flask`
 
